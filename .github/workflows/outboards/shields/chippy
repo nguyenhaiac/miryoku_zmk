@@ -3,7 +3,7 @@
 
 
 
-outboard_repository=hainguyenac/chippy
+outboard_repository=nguyenhaiac/chippy
 outboard_ref=main
 outboard_from=.
 outboard_to=boards/shield/chippy
