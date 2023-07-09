@@ -5,5 +5,5 @@
 
 outboard_repository=nguyenhaiac/chippy
 outboard_ref=master
-outboard_from=.
+outboard_from=zmk-config/
 outboard_to=boards/shield/chippy
