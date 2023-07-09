@@ -9,7 +9,7 @@ jobs:
     secrets: inherit
     with:
       board: '["seeeduino_xiao_ble"]'
-      shield: '["chippy_left chippy_right"]'
+      shield: '["chippy_left", "chippy_right"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y"]'
       branches: '["zmkfirmware/zmk/main urob/zmk/mouse-3.2"]'
